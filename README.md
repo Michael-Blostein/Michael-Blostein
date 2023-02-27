@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Michael-Blostein
-- 👀 I’m a first year Computer Science student at Mcgill University.
-- 🌱 I’m currently learning python.
+- 👀 I’m a U1 Computer Science student at Mcgill University.
 - 📫 How to reach me: mishablostein@icloud.com
 
 <!---
